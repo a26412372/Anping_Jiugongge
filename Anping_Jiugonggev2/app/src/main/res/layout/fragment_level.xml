@@ -1,0 +1,97 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@mipmap/homepage_background"
+    tools:context="com.example.yo.anping_jiugonggev2.LevelFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:background="@mipmap/choose_levels"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="140dp"
+            android:background="@mipmap/level_1_swordlion"
+            android:id="@+id/level_1_button"
+            android:layout_weight="1" />
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="140dp"
+            android:background="@mipmap/level_2_swordlion"
+            android:id="@+id/level_2_button"
+            android:layout_weight="1"/>
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="140dp"
+            android:background="@mipmap/level_3_swordlion"
+            android:id="@+id/level_3_button"
+            android:layout_weight="1"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="140dp"
+            android:background="@mipmap/level_4_swordlion"
+            android:id="@+id/level_4_button"
+            android:layout_weight="1"
+            />
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="140dp"
+            android:background="@mipmap/level_5_swordlion"
+            android:id="@+id/level_5_button"
+            android:layout_weight="1"/>
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="140dp"
+            android:background="@mipmap/level_6_swordlion"
+            android:id="@+id/level_6_button"
+            android:layout_weight="1"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="140dp"
+            android:background="@mipmap/level_7_swordlion"
+            android:id="@+id/level_7_button"
+            android:layout_weight="1"
+            />
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="140dp"
+            android:background="@mipmap/level_8_swordlion"
+            android:id="@+id/level_8_button"
+            android:layout_weight="1"/>
+
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="140dp"
+            android:background="@mipmap/level_9_swordlion"
+            android:id="@+id/level_9_button"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+
+</LinearLayout>
