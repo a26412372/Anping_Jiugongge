@@ -8,9 +8,15 @@
 
 #### 成果展示:
 ##### 進入\介紹畫面
-
 <p float="left">
   <img width="20%" height="20%" src="https://github.com/a26412372/Anping_Jiugongge/blob/master/%E5%AE%89%E5%B9%B3%E4%B9%9D%E5%AE%AE%E6%A0%BC1.png"/>
   <img width="20%" height="20%" src="https://github.com/a26412372/Anping_Jiugongge/blob/master/%E5%AE%89%E5%B9%B3%E4%B9%9D%E5%AE%AE%E6%A0%BC2.png"/>
   <img width="20%" height="20%" src="https://github.com/a26412372/Anping_Jiugongge/blob/master/%E5%AE%89%E5%B9%B3%E4%B9%9D%E5%AE%AE%E6%A0%BC3.jpg"/>
 </p>
+
+##### 主頁面與關卡內部
+<p float="left">
+  <img width="20%" height="20%" src="https://github.com/a26412372/Anping_Jiugongge/blob/master/%E5%AE%89%E5%B9%B3%E4%B9%9D%E5%AE%AE%E6%A0%BC4.png"/>
+  <img width="20%" height="20%" src="https://github.com/a26412372/Anping_Jiugongge/blob/master/%E5%AE%89%E5%B9%B3%E4%B9%9D%E5%AE%AE%E6%A0%BC5.png"/>
+</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;選擇獅頭關卡&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;使用者依照圖片以及文字提示尋找目標地點
