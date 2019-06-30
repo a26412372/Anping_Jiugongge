@@ -4,9 +4,11 @@
 #### 摘要:
 隨著智慧型手機越來越普及，因為這樣的趨勢，在市面上出現很多旅遊App。現今旅遊App大多強調功能性為主，但缺少了人與人之間的交流互動，因此本組以台南安平商圈為例，透過程式及美術設計撰寫設計出一款互動式App，內容主要以社區護隊來形成一種新旅遊方式，以達到深度旅遊的體驗。
 #### 系統流程圖
-![image](https://github.com/a26412372/Anping_Jiugongge/blob/master/%E5%AE%89%E5%B9%B3%E4%B9%9D%E5%AE%AE%E6%A0%BC_%E6%B5%81%E7%A8%8B%E5%9C%96.png)
+<img width="50%" height="50%" src="https://github.com/a26412372/Anping_Jiugongge/blob/master/%E5%AE%89%E5%B9%B3%E4%B9%9D%E5%AE%AE%E6%A0%BC_%E6%B5%81%E7%A8%8B%E5%9C%96.png"/>
+
 #### 成果展示:
 ##### 進入\介紹畫面
-![image](https://github.com/a26412372/Anping_Jiugongge/blob/master/%E5%AE%89%E5%B9%B3%E4%B9%9D%E5%AE%AE%E6%A0%BC1.png)
-![image](https://github.com/a26412372/Anping_Jiugongge/blob/master/%E5%AE%89%E5%B9%B3%E4%B9%9D%E5%AE%AE%E6%A0%BC2.png)
-![image](https://github.com/a26412372/Anping_Jiugongge/blob/master/%E5%AE%89%E5%B9%B3%E4%B9%9D%E5%AE%AE%E6%A0%BC3.png)
+
+<img width="50%" height="50%" src="https://github.com/a26412372/Anping_Jiugongge/blob/master/%E5%AE%89%E5%B9%B3%E4%B9%9D%E5%AE%AE%E6%A0%BC1.png"/>
+<img width="50" height="50" src="https://github.com/a26412372/Anping_Jiugongge/blob/master/%E5%AE%89%E5%B9%B3%E4%B9%9D%E5%AE%AE%E6%A0%BC2.png"/>
+<img width="50" height="50" src="https://github.com/a26412372/Anping_Jiugongge/blob/master/%E5%AE%89%E5%B9%B3%E4%B9%9D%E5%AE%AE%E6%A0%BC3.jpg"/>
