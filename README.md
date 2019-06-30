@@ -41,7 +41,8 @@
   <img width="20%" height="20%" src="https://github.com/a26412372/Anping_Jiugongge/blob/master/%E5%AE%89%E5%B9%B3%E4%B9%9D%E5%AE%AE%E6%A0%BC11.png"/>
 </p>
 關卡過關條件其二為點擊相機鈕並拍下地點照片並進行影像的辨識，但因當時開發時程已鄰近專題展，開發時間過於短缺，其二功能未能完成。
-
+<br>
+<br>
 <p float="left">
   <img width="20%" height="20%" src="https://github.com/a26412372/Anping_Jiugongge/blob/master/%E5%AE%89%E5%B9%B3%E4%B9%9D%E5%AE%AE%E6%A0%BC12.png"/>
   <img width="20%" height="20%" src="https://github.com/a26412372/Anping_Jiugongge/blob/master/%E5%AE%89%E5%B9%B3%E4%B9%9D%E5%AE%AE%E6%A0%BC13.png"/>
